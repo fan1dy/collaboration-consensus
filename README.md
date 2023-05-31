@@ -1,4 +1,4 @@
-This is the code-implementation for the paper "Collaborative learning via Prediction Consensus"
+This is the code-implementation for the paper [Collaborative learning via Prediction Consensus](https://arxiv.org/abs/2305.18497)
 
 ## Environment
 ```bash
